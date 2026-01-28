@@ -4,8 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Things;Building+Cool+Stuff+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-<img src="https://raw.githubusercontent.com/MicaelliMed);eiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer">
-
 </div>
 
 ## 🚀 About Me
