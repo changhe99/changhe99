@@ -12,7 +12,9 @@
 name: Chang
 located_in: Montreal, Canada
 current_job: Software Developer
-education: MSc in Robotics, ETH Zurich / BEng in Mechanical Engineering, McGill University
+education: 
+  - MSc in Robotics, ETH Zurich
+  - BEng in Mechanical Engineering, McGill University
 hobbies: ["Tinkering", "Fingerstyle Guitar", "Coffee ☕"]
 ```
 
